@@ -102,13 +102,13 @@ Lý do không chỉ vì điểm cao nhất, mà vì đây là candidate có đ�
 **Vì sao KHÔNG chọn các candidate còn lại (mỗi bài 2-3 câu):**
 
 ```text
-(Chưa có lý do chi tiết theo từng candidate — nhóm mới dừng ở bước so sánh điểm số 3.4. Cần bổ sung trước khi nộp.)
+
 ```
 
 **Disagreement (nếu có — ai lo gì, chốt ra sao):**
 
 ```text
-(Chưa ghi nhận disagreement cụ thể trong buổi thảo luận — cần bổ sung nếu có.)
+
 ```
 
 ---
@@ -321,13 +321,13 @@ Dùng data mẫu từ 2–4 tuần feedback gần nhất. Chạy workflow bán t
 **Nếu Not Yet — cần validate gì trước:**
 
 ```text
-(Không áp dụng — quyết định là Go.)
+
 ```
 
 **Nếu No-Go — làm gì thay AI:**
 
 ```text
-(Không áp dụng — quyết định là Go.)
+
 ```
 
 **Exit / rollback (khi nào dừng AI, quay về cách cũ):**
