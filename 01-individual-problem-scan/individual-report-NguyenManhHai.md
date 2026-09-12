@@ -22,9 +22,9 @@
 | 3 | Pain từ người khác | Ghi biên bản họp & theo dõi action item thủ công, PM/BA phải note tay rồi nhắc lại từng người, dễ sót việc | PM, BA, team member | Tổng hợp 1 người note và highlight mất 10-20 phút, tổng hợp thành 1 bản meeting minute hoàn chỉnh mất 10 phút |
 | 4 | AI có thể tốt hơn | Nhân viên tín dụng thẩm định hồ sơ vay thủ công: thu thập giấy tờ, đối chiếu, chấm điểm rủi ro |chuyên viên thẩm định tín dụng| quy trình thẩm định vay SME thủ công thường mất vài ngày đến 2–3 tuần để tổng hợp, xử lí dữ liệu vay  |
 | 5 | AI có thể tốt hơn | Luật sư rà soát hợp đồng (NDA, hợp đồng thương mại) thủ công để tìm điều khoản rủi ro | luật sư | luật sư mất trung bình 92 phút để review 1 bản NDA với độ chính xác trung bình 85% |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+| 6 | Lặp lại | Nhà tuyển dụng/HR sàng lọc CV thủ công cho mỗi vị trí, đọc lướt hàng trăm hồ sơ để chọn shortlist | HR/recruiter, ứng viên chờ phản hồi | Theo Ladders eye-tracking study, recruiter chỉ dành ~6-7 giây/CV ở vòng sàng lọc đầu; theo LinkedIn, một vị trí corporate trung bình nhận ~250 hồ sơ |
+| 7 | Pain từ người khác | Nhân viên CSKH trả lời lặp đi lặp lại các câu hỏi về tình trạng đơn hàng, đổi/trả hàng qua chat/email | Nhân viên CSKH, khách hàng chờ phản hồi | Theo Salesforce State of Service, ~62% yêu cầu CSKH là câu hỏi lặp lại có thể trả lời tự động; thời gian phản hồi trung bình qua email vẫn >12 giờ ở nhiều doanh nghiệp vừa/nhỏ |
+| 8 | Tốn thời gian | Bác sĩ/y tá ghi chép hồ sơ bệnh án (EHR) thủ công sau mỗi ca khám | Bác sĩ, y tá, bệnh nhân chờ lâu hơn | Nghiên cứu Annals of Internal Medicine: bác sĩ dành ~2 giờ ghi chép hồ sơ cho mỗi 1 giờ khám bệnh trực tiếp |
 | 9 | | | | |
 | 10 | | | | |
 
