@@ -22,9 +22,9 @@
 
 | # | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh của nhóm |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | Nguyễn Mạnh Hải | Luật sư rà soát hợp đồng NDA tìm điều khoản rủi ro thủ công | Luật sư / paralegal | Đối chiếu từng điều khoản với checklist rủi ro thủ công | |
+| 2 | Nguyễn Mạnh Hải | Chuyên viên tín dụng thẩm định hồ sơ vay SME thủ công | Chuyên viên thẩm định tín dụng | Đối chiếu dữ liệu tín dụng + phân tích tài chính thủ công | |
+| 3 | Nguyễn Mạnh Hải | Ghi biên bản họp & theo dõi action item thủ công | PM / BA | Tổng hợp note thô thành biên bản + nhắc việc rải rác sau họp | |
 | 4 | | | | | |
 | 5 | | | | | |
 | 6 | | | | | |
